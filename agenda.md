@@ -1,6 +1,6 @@
 ---
 title: Agenda
-feature_image: "../assets/images/universal.png"
+feature_image: "../assets/images/universal_kuo.jpg"
 image: "../assets/images/sweden-aperol.jpg"
 ---
 
