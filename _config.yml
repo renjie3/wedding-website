@@ -38,12 +38,8 @@ navigation_header:
   url: /
 - title: Venue Info
   url: /venue/
-- title: Travel
-  url: /travel/
 - title: Agenda
   url: /agenda/
-- title: Photos
-  url: /photos/
 
 
 # Footer nav

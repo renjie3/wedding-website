@@ -1,6 +1,6 @@
 ---
 title: Venue Information
-feature_image: "../assets/images/sunset-nyc.jpg"
+feature_image: "../assets/images/proposal_kuo.jpg"
 image: "../assets/images/sweden-aperol.jpg"
 ---
 
